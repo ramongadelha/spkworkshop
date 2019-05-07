@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu/trusty64"
-  config.vm.hostname = "tdnlabs.tradein.net.br"
+  config.vm.hostname = "nginx.sunspark"
     config.vm.network "forwarded_port", guest: 80, host: 8899
   #config.vm.network = "private_network", type: "dhcp"
 
