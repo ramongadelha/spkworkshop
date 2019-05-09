@@ -1,4 +1,4 @@
-# TRADEIN - DevOps Workshop
+# Sunspark - DevOps Workshop
 
 Criando e provisionando VM Linux com Vagrant + Puppet
 
